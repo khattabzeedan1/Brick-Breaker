@@ -31,14 +31,13 @@ This project is a standalone 2D arcade-style desktop application developed using
 
 | Active Gameplay Interface | Game Over / Victory Screen |
 | :---: | :---: |
-| _[Insert active gameplay screenshot here]_ | _[Insert victory/gameover screenshot here]_ |
+| ![Active Gameplay](assets/game.png) |
 
 ---
 
 ## 🎥 Demo
 
-> 💡 *Tip: Place an animated GIF or a link to a short video showcasing a quick gameplay run here to immediately capture attention!*
-
+| ![Gameplay Demo](assets/gameOver.gif) |
 ---
 
 ## 🚀 Getting Started
